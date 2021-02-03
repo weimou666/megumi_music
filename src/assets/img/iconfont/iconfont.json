@@ -1,0 +1,37 @@
+{
+  "id": "2364490",
+  "name": "ee",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1535102",
+      "name": "mv",
+      "font_class": "mv",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11391542",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "11428241",
+      "name": "音乐列表-01",
+      "font_class": "yinleliebiao-",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "14666088",
+      "name": "音乐",
+      "font_class": "yinle1",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    }
+  ]
+}
